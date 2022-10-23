@@ -69,7 +69,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <br/>
-<p align="center"> <br> <img src="https://komarev.com/ghpvc/?username=safeer-muhd&label=Profile%20views&color=0e75b6&style=flat" alt="safeer-muhd" /></p>
+
+<p align="center"> <br/> <br/> <img src="https://komarev.com/ghpvc/?username=safeer-muhd&label=Profile%20views&color=0e75b6&style=flat" alt="safeer-muhd" /></p>
 
 <h3 align="left">Connect with me:<br/> </h3>
 <p align="left">
@@ -78,7 +79,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original
 
 ## 📌 Pinned Repositories
 
-<a href="[]"></a>
+<a href="[https://github.com/safeer-muhd/Django_Ecommerce]">
+<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=safeer-muhd&repo=Django_Ecommerce&title=en&layout=compact&theme=tokyonight" alt="safeer-muhd" />
+</a>
 
 ## &#x1f4c8; GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safeer-muhd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="safeer-muhd" /></p>
