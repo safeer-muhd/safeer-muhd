@@ -79,7 +79,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original
 
 ## 📌 Pinned Repositories
 
-<a href="[https://github.com/safeer-muhd/Django_Ecommerce]">
+<a href="https://github.com/safeer-muhd/Django_Ecommerce">
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=safeer-muhd&repo=Django_Ecommerce&title=en&layout=compact&theme=tokyonight" alt="safeer-muhd" />
 </a>
 
