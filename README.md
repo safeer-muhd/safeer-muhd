@@ -83,8 +83,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=safeer-muhd&repo=Django_Ecommerce&title=en&layout=compact&theme=tokyonight" alt="safeer-muhd" />
 </a>
 
+<a href="https://github.com/safeer-muhd/Hospital_Management">
+<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=safeer-muhd&repo=Hospital_Management&title=en&layout=compact&theme=tokyonight" alt="safeer-muhd"/>
+</a>
+
 ## &#x1f4c8; GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safeer-muhd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="safeer-muhd" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safeer-muhd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="safeer-muhd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safeer-muhd&show_icons=true&locale=en&theme=tokyonight" alt="safeer-muhd" /></p>
 
