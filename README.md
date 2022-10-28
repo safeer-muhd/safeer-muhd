@@ -68,9 +68,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<br/>
 
-<p align="center"> <br/> <br/> <img src="https://komarev.com/ghpvc/?username=safeer-muhd&label=Profile%20views&color=0e75b6&style=flat" alt="safeer-muhd" /></p>
+<br>
+
+### 🧐
+<p align="left"><img src="https://komarev.com/ghpvc/?username=safeer-muhd&label=Profile%20views&color=0e75b6&style=flat" alt="safeer-muhd" /></p>
 
 <h3 align="left">Connect with me:<br/> </h3>
 <p align="left">
@@ -91,7 +93,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original
 <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=safeer-muhd&repo=React_Netflix&title=en&layout=compact&theme=tokyonight" alt="safeer-muhd"/>
 </a>
 
-<p><img align="center" src="https://user-images.githubusercontent.com/114298760/198703948-de6e182c-2f5f-400a-9a71-5cd24e5646c8.gif" width="450" height="320"/></p>
+<p><img align="center" src="https://user-images.githubusercontent.com/114298760/198703948-de6e182c-2f5f-400a-9a71-5cd24e5646c8.gif" width="400" height="300"/></p>
 
 ## &#x1f4c8; GitHub Stats
 
