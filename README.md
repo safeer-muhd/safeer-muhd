@@ -80,12 +80,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/safeer-muhd/Django_Ecommerce">
-<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=safeer-muhd&repo=Django_Ecommerce&title=en&layout=compact&theme=tokyonight" alt="safeer-muhd" />
+<img align="center" style="margin:1rem 2.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=safeer-muhd&repo=Django_Ecommerce&title=en&layout=compact&theme=tokyonight" alt="safeer-muhd" />
 </a>
 
 <a href="https://github.com/safeer-muhd/Hospital_Management">
-<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=safeer-muhd&repo=Hospital_Management&title=en&layout=compact&theme=tokyonight" alt="safeer-muhd"/>
+<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=safeer-muhd&repo=Hospital_Management&title=en&layout=compact&theme=tokyonight" alt="safeer-muhd"/>  
 </a>
+
+<a href="https://github.com/safeer-muhd/React_Netflix">
+<img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=safeer-muhd&repo=React_Netflix&title=en&layout=compact&theme=tokyonight" alt="safeer-muhd"/>
+</a>
+
+<p><img align="center" src="https://user-images.githubusercontent.com/114298760/198703948-de6e182c-2f5f-400a-9a71-5cd24e5646c8.gif" width="450" height="320"/></p>
 
 ## &#x1f4c8; GitHub Stats
 
