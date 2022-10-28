@@ -69,7 +69,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 
-<br>
+<br/>
+
+<br/>
 
 ### 🧐
 <p align="left"><img src="https://komarev.com/ghpvc/?username=safeer-muhd&label=Profile%20views&color=0e75b6&style=flat" alt="safeer-muhd" /></p>
