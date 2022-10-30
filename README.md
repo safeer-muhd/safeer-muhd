@@ -20,7 +20,6 @@ I ’m a self-taught Python developer i specialized in Django development.always
 - ⚡ Fun fact **`traveling`**
 
 ### 🧰 Languages and Tools
-<br/>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -31,11 +30,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
-<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <img align="left" alt="C_langugage" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -61,7 +63,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 <img align="left" alt="jquery" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -92,10 +95,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original
 </a>
 
 <a href="https://github.com/safeer-muhd/React_Netflix">
-<img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=safeer-muhd&repo=React_Netflix&title=en&layout=compact&theme=tokyonight" alt="safeer-muhd"/>
+<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=safeer-muhd&repo=React_Netflix&title=en&layout=compact&theme=tokyonight" alt="safeer-muhd"/>
 </a>
-
-<p><img align="center" src="https://user-images.githubusercontent.com/114298760/198703948-de6e182c-2f5f-400a-9a71-5cd24e5646c8.gif" width="400" height="300"/></p>
 
 ## &#x1f4c8; GitHub Stats
 
